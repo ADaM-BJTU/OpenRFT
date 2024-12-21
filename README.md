@@ -11,7 +11,7 @@ OpenRFT is an open-source project that aims to adapt generalist reasoning founda
 ## News
 
 
-### - 2024-12-21
+### - 2024-12-22
 - Updated the training and evaluation code for OpenRFT
 
 
