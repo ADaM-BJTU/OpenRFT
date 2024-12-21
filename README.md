@@ -1,6 +1,6 @@
 # OpenRFT: Adapting Reasoning Foundation Model for Domain-Specific Tasks with Reinforcement Fine-Tuning
 
-[Report paper](report/OpenRFT.pdf)
+[Technical report](report/OpenRFT.pdf)
 
 OpenRFT is an open-source project that aims to adapt generalist reasoning foundation models to domain-specific tasks through Reinforcement Fine-Tuning (RFT). By leveraging domain-specific samples, OpenRFT addresses challenges such as the lack of reasoning step data and the limited quantity of training samples, enabling efficient fine-tuning for domain-specific tasks.
 
