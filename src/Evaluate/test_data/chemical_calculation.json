@@ -1,0 +1,3002 @@
+[
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the work involved if a gas in a 2.0-liter container at 2.4 atmospheres pressure is allowed to expand against a pressure of 0.80 atmosphere?",
+        "choices": {
+            "text": [
+                "-3.2 L atm",
+                "-4.8 L atm",
+                "+14.4 L atm",
+                "-9.62 L atm"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "$K_(sp)$ for iron (II) hydroxide, $Fe(OH)_2$ has a value 1.8x$10^-15$ at 25\u00b0C.  What is the solubility of iron (II) hydroxide in mol/L and g/L at 25\u00b0C?",
+        "choices": {
+            "text": [
+                "3.45x10^-6 mol/L; 2 mg/L",
+                "9.21x10^-6 mol/L; 0.5 mg/L",
+                "5.87x10^-6 mol/L; 1.5 mg/L",
+                "7.66x10^-6 mol/L; <1 mg/L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Of these, what is the order from highest pH to lowest pH? $LiOH(aq)$, $HBrO(aq)$, $Sr(OH)_2(aq)$, $NH_3(aq)$, and $HI(aq)$",
+        "choices": {
+            "text": [
+                "Sr(OH)\u2082(aq), LiOH(aq), NH\u2083(aq), HBrO(aq), HI(aq)",
+                "LiOH(aq), Sr(OH)\u2082(aq), NH\u2083(aq), HBrO(aq), HI(aq)",
+                "NH\u2083(aq), HBrO(aq), HI(aq), Sr(OH)\u2082(aq), LiOH(aq)",
+                "HI(aq), HBrO(aq), NH\u2083(aq), LiOH(aq), Sr(OH)\u2082(aq)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A 25 g sample of a liquid was heated to 95 \u00b0C and then quickly transferred to an insulated container holding 100 g of water at 26 \u00b0C. The temperature of the mixture rose to reach a final temperature of 37 \u00b0C. Which of the following can be concluded?",
+        "choices": {
+            "text": [
+                "The sample lost more heat energy than the water gained because the sample temperature changed more than the water temperature did.",
+                "Even though the sample temperature changed more than the water temperature did, the sample lost the same amount of heat energy as the water gained to obey the law of conservation of energy.",
+                "The sample temperature changed more than the water temperature did; therefore the heat capacity of the sample must be greater than the heat capacity of the water.",
+                "The final temperature is less than the average starting temperatures; therefore the equilibrium constant must be less than 1."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "If a 6.03 x 10-6.0 M solution of a weak acid is 20 % ionized, what is the pKa for the acid?",
+        "choices": {
+            "text": [
+                "6.01",
+                "7.34",
+                "5.87",
+                "6.52"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the magnetic moment of 205Tl?",
+        "choices": {
+            "text": [
+                "1.433 x 10^-26 J T-1",
+                "0.827 x 10^-26 J T-1",
+                "[\u0263 (205TI = 1.569 x 108 T-1 s-1, I = \u00bd]",
+                "0.717 x 10^-26 J T-1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How does chloride ion concentration compare given $1*mol*L^-1$ solutions EACH of $NaCl$, and $CaCl_2$?",
+        "choices": {
+            "text": [
+                "$NaCl$ solution has a higher chloride ion concentration.",
+                "Chloride ion concentration cannot be compared in these solutions.",
+                "Both solutions have equal chloride ion concentrations.",
+                "$CaCl_2$ solution has a higher chloride ion concentration."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "If $He$ (g) has an average kinetic energy of 5930 J/mol under certain conditions, what is the root mean square speed of $N_2$ (g) molecules under the same conditions?",
+        "choices": {
+            "text": [
+                "712.4 m/s",
+                "589.3 m/s",
+                "534.6 m/s",
+                "650.7 m/s"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The temperature coefficient for a certain reaction is $2$. If the temperature of the reaction was raised by $\"40 K\"$, what is the approximate factor to which the rate is multiplied?",
+        "choices": {
+            "text": [
+                "32",
+                "8",
+                "64",
+                "16"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Three half-lives after an isotope is prepared,",
+        "choices": {
+            "text": [
+                "25% of the isotope decayed",
+                "12.5% of the isotope decayed",
+                "12.5% of the isotope is left",
+                "25% of the isotope is left"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How would you calculate the enthalpy change, delta H, for the process in which 33.3 g of water is converted from liquid at 4.6 C to vapor at 25.0 C?\n\nFor water: H = 44.0 kJ/mol at 25.0 C and s = 4.18J/g C for H2O(l).",
+        "choices": {
+            "text": [
+                "84 kJ",
+                "76 kJ",
+                "92 kJ",
+                "99 kJ"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "It takes 770 joules energy to raise the temperature of 50.0 g of mercury by 110\u00b0C. What is the specific heat of mercury?",
+        "choices": {
+            "text": [
+                "0.21 J/g\u00b0C",
+                "0.14 J/g\u00b0C",
+                "0.07 J/g\u00b0C",
+                "0.28 J/g\u00b0C"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A 2.5 L container of xenon had a pressure change from 125 kpa to 35 kpa what is the new volume?",
+        "choices": {
+            "text": [
+                "8.9 L",
+                "12.3 L",
+                "6.7 L",
+                "4.5 L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Determine the H+(aq) concentration in 1.0 M phenol, C6H5OH, solution. (The Ka for phenol is 1 \u00d7 10^-10.)",
+        "choices": {
+            "text": [
+                "1 \u00d7 10^-5 M",
+                "1 \u00d7 10^-10 M",
+                "1 \u00d7 10^-3 M",
+                "1 \u00d7 10^-9 M"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In photosynthesis glucose c6h12o6 and o2 are produced from co2 and h2o.\n\n6CO(g)+6H2O(l)+680kcal=C6H12O6(aq)+6O2(g)\n\nHow many grams of glucose are produced from 21.0g of CO2?",
+        "choices": {
+            "text": [
+                "28.66 g",
+                "7.56 g",
+                "21.89 g",
+                "14.33 g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many moles of propane (C3H8) are there in 6.2 g of propane?",
+        "choices": {
+            "text": [
+                "1.4 \u00d7 10^-1 mol",
+                "71 mol",
+                "14.1 mol",
+                "7.1 mol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Find the partial pressure in a solution containing ethanol and 1-propanol with a total vapor pressure of $\"56.3 torr\"$? The pure vapor pressures are $\"100.0 torr\"$ and $\"37.6 torr\"$, respectively, and the solution has a mol fraction of $0.300$ of ethanol.",
+        "choices": {
+            "text": [
+                "26.3 torr",
+                "100.0 torr",
+                "37.6 torr",
+                "30.0 torr"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "After 20.0g of $Na_2SO_4$ are added to a 0.5 L saturated solution of $CaSO_4$, does the concentration of $Ca^(2+)$ increase, decrease, or stay the same?",
+        "choices": {
+            "text": [
+                "Fluctuate",
+                "Decrease",
+                "Stay the same",
+                "Increase"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A first-order reaction has a half-life of 34 minutes. What is the rate constant for this reaction?",
+        "choices": {
+            "text": [
+                "2.9 \u00d7 10^-1 min-1",
+                "2.04 \u00d7 10^-2 s-1",
+                "34 min",
+                "3.4 \u00d7 10^-4 s-1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the oxidation state of chlorine in KClO3?",
+        "choices": {
+            "text": [
+                "+3",
+                "+5",
+                "+7",
+                "-5"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the formula of potassium phosphate in grams/mole?",
+        "choices": {
+            "text": [
+                "212.2663 g/mol",
+                "226.3947 g/mol",
+                "240.1239 g/mol",
+                "198.3421 g/mol"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A gas sample of $Xe$ occupies 10-liter balloon at 27\u00b0C under a pressure of 1.2 atm. Approximately what volume would the gas occupy at 350 K at 2 atm of pressure?",
+        "choices": {
+            "text": [
+                "11 L",
+                "5 L",
+                "7 L",
+                "9 L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "120 grams $NaCl$ is equal to how many molecules of $NaCl$?",
+        "choices": {
+            "text": [
+                "2.48 * 10^24 formula units",
+                "3.72 * 10^24 formula units",
+                "1.24 * 10^24 formula units",
+                "6.02 * 10^23 formula units"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In acid solution the bromate ion, BrO3- can react with other substances, resulting in Br2. Balance the half-reaction for bromate ions forming bromine. The balanced half-reaction has",
+        "choices": {
+            "text": [
+                "3 electrons on the left",
+                "10 electrons on the left",
+                "6 electrons on the left",
+                "6 electrons on the right"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many moles of $N_2$ are formed by the decomposition of 2.5 moles of $NaN_3$?",
+        "choices": {
+            "text": [
+                "2.5 mol N\u2082",
+                "3.75 mol N\u2082",
+                "5.0 mol N\u2082",
+                "1.25 mol N\u2082"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many isomers does hexane, $C_6H_14$, possess?",
+        "choices": {
+            "text": [
+                "4 isomers",
+                "5 isomers",
+                "6 isomers",
+                "7 isomers"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the pH at the half equivalence point when 50.0 mL of 0.200 M NaOH is titrated with 0.100 M HCl? The starting pH is 13.3.",
+        "choices": {
+            "text": [
+                "13.00",
+                "12.70",
+                "12.30",
+                "12.50"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What are the valence electrons in $MgCl^+$, $CO_2$, and $HF$?",
+        "choices": {
+            "text": [
+                "MgCl2: 8; CO2: 12; HF: 4",
+                "MgCl2: 6; CO2: 18; HF: 10",
+                "MgCl2: 2; CO2: 16; HF: 8",
+                "MgCl2: 4; CO2: 14; HF: 6"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Nickel (Z = 28, A = 59) has a first ionization energy of 737 kJ/mol and a boiling point of 2913 \u00b0C, while Pt (Z = 78, A = 195) has a first ionization energy of 870 kJ/mol and a boiling point of 3825 \u00b0C. Which of the following are the most reasonable values of ionization energy and boiling point for palladium?",
+        "choices": {
+            "text": [
+                "-200 kJ/mol and 3524 \u00b0C",
+                "795 kJ/mol and 2436 \u00b0C",
+                "932 kJ/mol and 3416 \u00b0C",
+                "804 kJ/mol and 2963 \u00b0C"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The hydrogen ion concentration of a vinegar solution is 0.00010 M. How is this concentration written in scientific notation?",
+        "choices": {
+            "text": [
+                "1.0x10^-5",
+                "1.0x10^-3",
+                "1.0x10^-4",
+                "1.0x10^-2"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A mixture initially contains A, B, and C in the following concentrations: [A]=0.550 M, [B]=1.05 M, [C]=.550 M. The following reaction occurs and equilibrium is established: A+2B <-> C \nAt equilibrium, [A]=.390 M and [C]=0.710 M. What is the value of the equilibrium constant, Kc?",
+        "choices": {
+            "text": [
+                "6.8",
+                "3.4",
+                "8.5",
+                "1.7"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the electron configuration of the oxide ion $O^(2-)$?",
+        "choices": {
+            "text": [
+                "1s\u00b22s\u00b22p\u2075",
+                "1s\u00b22s\u00b22p\u2074",
+                "1s\u00b22s\u00b92p\u2076",
+                "1s\u00b22s\u00b22p\u2076"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A 25 g sample of a liquid was heated to 100 \u00b0C and then quickly transferred to an insulated container holding 100 g of water at 22 \u00b0C. The temperature of the mixture rose to reach a final temperature of 35 \u00b0C. Which of the following can be concluded?",
+        "choices": {
+            "text": [
+                "The sample temperature changed more than the water temperature did; therefore the sample lost more heat energy than the water gained.",
+                "The final temperature is less than the average starting temperature of the sample and the water; therefore the total energy of the sample and water decreased.",
+                "The sample temperature changed more than the water temperature did, but the sample lost the same amount of heat energy as the water gained.",
+                "The sample temperature changed more than the water temperature did; therefore the CP of the sample must be greater than the CP of the water."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A metal is reacted with HCl to produce hydrogen gas. If 0.0623 gram of metal produces 28.3 mL of hydrogen at STP, the mass of the metal that reacts with one mole of hydrochloric acid is",
+        "choices": {
+            "text": [
+                "24.7 g",
+                "493 g",
+                "98.6 g",
+                "49.3 g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many NMR signals does $CH_3CH_3$ show?",
+        "choices": {
+            "text": [
+                "Four signals",
+                "Three signals",
+                "Two signals",
+                "One signal"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A solution is prepared by dissolving 30.0 grams of Ni(NO3)2 in enough water to make 250 mL of solution. What is the molarity of this solution?",
+        "choices": {
+            "text": [
+                "6.3 \u00d7 10^-3 molar",
+                "3.3 molar",
+                "0.496 molar",
+                "0.656 mol/L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A $600*cm^3$ volume of ethane gas is completely combusted with $2500*cm^3$ of dioxygen gas to give carbon dioxide and water.  What is the reagent in excess, and what volume would $CO_2(g)$ occupy after the reaction....?",
+        "choices": {
+            "text": [
+                "200 cm\u00b3 O\u2082 excess; 1100 cm\u00b3 CO\u2082 produced",
+                "400 cm\u00b3 O\u2082 excess; 1200 cm\u00b3 CO\u2082 produced",
+                "300 cm\u00b3 O\u2082 excess; 1400 cm\u00b3 CO\u2082 produced",
+                "500 cm\u00b3 O\u2082 excess; 1000 cm\u00b3 CO\u2082 produced"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How does the rate of effusion of sulfur dioxide, $SO_2$, compare to that of helium?",
+        "choices": {
+            "text": [
+                "Helium and sulfur dioxide effuse at the same rate.",
+                "Sulfur dioxide effuses 4 times faster than helium.",
+                "Helium effuses 4 times faster than sulfur dioxide.",
+                "Helium effuses 2 times faster than sulfur dioxide."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How do we calculate the $pH$ of a buffer that is composed of $HPO_4^(2-)$ and $H_2PO_4^(-)$?",
+        "choices": {
+            "text": [
+                "pH \u2248 6.80",
+                "pH \u2248 7.50",
+                "pH \u2248 6.20",
+                "pH \u2248 7.20"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The reaction of Br2(g) with Cl2(g) to form BrCl(g) has an equilibrium constant of 15.0 at a certain temperature. If 10.0 grams of BrCl is initially present in a 15.0-liter reaction vessel, what will the concentration of BrCl be at equilibrium?",
+        "choices": {
+            "text": [
+                "1.97 \u00d7 10^-3 M",
+                "3.8 \u00d7 10^-3 mol/L",
+                "9.9 \u00d7 10^-4 M",
+                "5.77 \u00d7 10^-3 mol/L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What element is represented by $[Ar]4s^2 3d^10 4p^1$?",
+        "choices": {
+            "text": [
+                "Element with 29 electrons",
+                "Element with 33 electrons",
+                "Element with 36 electrons",
+                "Element with 31 electrons"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A silyl radical bearing an Si-H\u00b7 fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1.",
+        "choices": {
+            "text": [
+                "15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1",
+                "15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1",
+                "15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1",
+                "15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Which of the following molecules has the most covalent bonds? _____",
+        "choices": {
+            "text": [
+                "Carbon dioxide",
+                "Breath",
+                "water",
+                "Carbon monoxide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "xiezhi",
+            "source": "xiezhi"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A certain reaction is nonspontaneous under standard conditions, but becomes spontaneous at higher temperatures. What conclusions may be drawn under standard conditions?",
+        "choices": {
+            "text": [
+                "\u0394H < 0, \u0394S < 0 and \u0394G = 0",
+                "\u0394H > 0, \u0394S < 0 and \u0394G > 0",
+                "\u0394H > 0, \u0394S > 0 and \u0394G > 0",
+                "\u0394H < 0, \u0394S < 0 and \u0394G > 0"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the mass of precipitate formed when 50 ml of 16.9% w/v solution of AgNO3 is mixed with 50 ml of 5.8% w/v NaCl solution?",
+        "choices": {
+            "text": [
+                "7.35 g",
+                "7.58 g",
+                "7.11 g",
+                "6.85 g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What volume must the final solution reach if you want to make a $\"0.01 N\"$ oxalic acid solution in water using $\"126 g\"$ of oxalic acid solid?",
+        "choices": {
+            "text": [
+                "300 L",
+                "200 L",
+                "100 L",
+                "400 L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "It takes 78.2 J to raise the temperature of 45.6 grams of lead by 13.3 C. What is the specific heat of lead?",
+        "choices": {
+            "text": [
+                "0.129 J/(g\u00b0C)",
+                "0.152 J/(g\u00b0C)",
+                "0.086 J/(g\u00b0C)",
+                "0.101 J/(g\u00b0C)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many molecules in a HALF-MOLAR quantity of $N_2O_5$?",
+        "choices": {
+            "text": [
+                "9.02 x 10^23 molecules",
+                "1.50 x 10^23 molecules",
+                "6.04 x 10^23 molecules",
+                "3.01 x 10^23 molecules"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How do you calculate dilution factor?",
+        "choices": {
+            "text": [
+                "DF = Vi / Vf",
+                "DF = Vf - Vi",
+                "DF = Vf + Vi",
+                "DF = Vf / Vi"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Which of the following formula has all the sp3 hybrid orbitals in its molecular orbitals? _____",
+        "choices": {
+            "text": [
+                "CH2Cl2",
+                "CO2",
+                "NH3",
+                "NO2"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "xiezhi",
+            "source": "xiezhi"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What volume is produced at STP in the reaction $2\"H\"_2\"S\"(g) + 3\"O\"_2(g) -> 2\"SO\"_2(g) + 2\"H\"_2\"O\"(l)$ if we start with $\"200 mL H\"_2\"S\"$ and $\"200 mL O\"_2$?",
+        "choices": {
+            "text": [
+                "150 mL SO\u2082",
+                "250 mL SO\u2082",
+                "300 mL SO\u2082",
+                "200 mL SO\u2082"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A proposed mechanism for a reaction is as follows: NO2 + F2 \u2192NO2F + F Slow step. F + NO2 \u2192 NO2F Fast step. What is the order of the overall reaction?",
+        "choices": {
+            "text": [
+                "Third order",
+                "Second order",
+                "Zero order",
+                "First order"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.",
+        "choices": {
+            "text": [
+                "g = 1.950",
+                "g = 2.002",
+                "g = 2.250",
+                "g = 2.005"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How does the concentration of electrolyte affect an electrochemical cell?",
+        "choices": {
+            "text": [
+                "E_cell = -1.1 - (-0.0089) = -1.09V",
+                "E_cell = -1.1 - (0.0089) = -1.1089V",
+                "E_cell = -1.1 + (0.0089) = -1.0911V",
+                "E_cell = -1.1 + (-0.0089) = -1.1089V"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many stereoisomers would a carbohydrate with 5 chiral carbons have?",
+        "choices": {
+            "text": [
+                "64",
+                "24",
+                "32",
+                "16"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many grams of $KI$ must be dissolved in 250.0 mL of solution to form a 0.075 M solution?",
+        "choices": {
+            "text": [
+                "6 g",
+                "3 g",
+                "9 g",
+                "12 g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A sample of compound X is found to contain 12.3 g of O, 18.4 g of C, and 25.7 g of N. The Law of Definite Proportion says if it weighs 90.3 g, how many grams of carbon are there?",
+        "choices": {
+            "text": [
+                "29.5 g C",
+                "33.7 g C",
+                "25.3 g C",
+                "21.9 g C"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "When the following equation is balanced, which of the following is true?\n__ MnO4\u2212 + __ I\u2212 + __ H+ <-> __ Mn2+ + __ IO3\u2212 + __ H2O",
+        "choices": {
+            "text": [
+                "The I\u2212 : IO3\u2212 ratio is 3:1.",
+                "The MnO4- : I- ratio is 6:5.",
+                "The H+ : I\u2212 ratio is 2:1.",
+                "The MnO4- : Mn2+ ratio is 3:1."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the $pH$ of a solution comprising $100*mL$ volumes EACH of $HCl(aq)$ at $0.20*mol*L^-1$ and $NaOH(aq)$ at $0.18*mol*L^-1$?",
+        "choices": {
+            "text": [
+                "4.0",
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?",
+        "choices": {
+            "text": [
+                "C2H6O3",
+                "C3H6O",
+                "C2H4O",
+                "C3H8O2"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "For equimolar solutions of $\"sugar\"$, $\"potassium sulfate\"$, and $\"potassium hexaferricyanide\"$, which will exert the LEAST vapour pressure?",
+        "choices": {
+            "text": [
+                "Potassium sulfate",
+                "Sugar",
+                "None of them",
+                "Potassium hexaferricyanide"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A $2500*m^3$ volume of gas under $200*kPa$ pressure is compressed to $500*kPa$.  What is the new volume?",
+        "choices": {
+            "text": [
+                "1500*m^3",
+                "2000*m^3",
+                "1000*m^3",
+                "500*m^3"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A gas occupies a volume of 0.6 L at 10.1 kPa. What volume will the gas occupy at 101 kPa?",
+        "choices": {
+            "text": [
+                "0.6 L",
+                "6 L",
+                "0.06 L",
+                "0.006 L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A sample of carbon is placed in a rigid 1.50 L flask. Dinitrogen monoxide is added and the flask heated to 800C. When the system reached equilibrium the partial pressure of the carbon dioxide is found to be 0.030 atm and the partial pressure of the dinitrogen monoxide to be 1.48 atm.  What is the value of the equilibrium constant, Kp for the system at 800C?",
+        "choices": {
+            "text": [
+                "4.9 \u00d7 10\u207b\u2075",
+                "2.3 \u00d7 10\u207b\u2075",
+                "1.2 \u00d7 10\u207b\u2074",
+                "7.4 \u00d7 10\u207b\u2076"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Dissolving one mole of each of the following compounds in water results in solutions with different pH values. Under those conditions, which of the following acids will have the highest percentage ionization?",
+        "choices": {
+            "text": [
+                "H3PO4",
+                "HClO4",
+                "HNO2",
+                "H2S"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many electrons are there in carbonate ion, $CO_3^(2-)$?",
+        "choices": {
+            "text": [
+                "36 electrons",
+                "40 electrons",
+                "32 electrons",
+                "28 electrons"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many moles of lithium hydroxide would it take to neutralize one mole of sulfuric acid?",
+        "choices": {
+            "text": [
+                "2 moles of LiOH",
+                "1 mole of LiOH",
+                "3 moles of LiOH",
+                "4 moles of LiOH"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many double bonds are in $SO_2$?",
+        "choices": {
+            "text": [
+                "2 double bonds",
+                "3 double bonds",
+                "1 double bond",
+                "4 double bonds"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the heat released when 25.0 grams of water freezes at 0\u00b0C?",
+        "choices": {
+            "text": [
+                "5.2 * 10^3 J",
+                "3.9 * 10^3 J",
+                "1.3 * 10^3 J",
+                "2.6 * 10^3 J"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "A certain radioactive material has a half-life of 36 minutes. Starting with 10.00 grams of this material, how many grams will be left after 2 hours?",
+        "choices": {
+            "text": [
+                "1.5 \u00d7 10^-4 grams",
+                "0.25 gram",
+                "1.00 grams",
+                "3.33 grams"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the oxidation number of manganese in $\"Mn\"_2\"O\"_3$ ?",
+        "choices": {
+            "text": [
+                "+4",
+                "+5",
+                "+3",
+                "+2"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "During the study of the reaction A \u2192 2B, a chemist constructs several graphs. The graph of [A] versus time and the graph of ln [A] versus time both give a curved line; however, the graph of 1/[A] versus time and gives a straight line. This implies the rate law is",
+        "choices": {
+            "text": [
+                "Rate = k[A]^-1",
+                "Rate = k[A]^0",
+                "Rate = k[A]",
+                "Rate = k[A]^2"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The oxidation number of chlorine in the perchlorate ion, ClO4\u2013, is",
+        "choices": {
+            "text": [
+                "7",
+                "-1",
+                "2",
+                "-3"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How can I prepare 500 mL of a 0.15 M solution of potassium iodide?",
+        "choices": {
+            "text": [
+                "12 g KI in 500 mL volumetric flask",
+                "10 g KI in 500 mL volumetric flask",
+                "15 g KI in 500 mL volumetric flask",
+                "8 g KI in 500 mL volumetric flask"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "At approximately what pressure will water be a vapor a 0\u00b0C?",
+        "choices": {
+            "text": [
+                "0.0028 atm",
+                "0.0056 atm",
+                "0.0089 atm",
+                "0.0123 atm"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Calculate the relative occupancies of the \u03b1 and \u03b2 spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies (take TS = 300 K).",
+        "choices": {
+            "text": [
+                "N\u03b1/N\u03b2 = 0.9850 at L-band; N\u03b1/N\u03b2 = 0.9809 at W-band",
+                "N\u03b1/N\u03b2 = 0.9800 at L-band; N\u03b1/N\u03b2 = 0.9509 at W-band",
+                "N\u03b1/N\u03b2 = 0.9950 at L-band; N\u03b1/N\u03b2 = 0.9609 at W-band",
+                "N\u03b1/N\u03b2 = 0.9910 at L-band; N\u03b1/N\u03b2 = 0.9709 at W-band"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)",
+        "choices": {
+            "text": [
+                "0.100 M NaCl",
+                "0.100 M HCl",
+                "0.050 M CaCl2",
+                "0.050 M AlCl3"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the ratio of line intensities in the EPR spectrum of the t-Bu radical (CH3)3C\u2022?",
+        "choices": {
+            "text": [
+                "1:9:35:82:120:120:82:35:9:1",
+                "1:8:28:56:70:56:28:8:1",
+                "1:9:36:84:126:126:84:36:9:1",
+                "1:19:36:84:126:126:84:36:19:1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the isotope symbol for an atom that contain 82 protons and 125 neutrons?",
+        "choices": {
+            "text": [
+                "$^125Pb$",
+                "$^207Pb$",
+                "$^82Pb$",
+                "$^207Bi$"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "If 1.0 g of rubidium and 1.0 g of bromine are reacted, what will be left in measurable amounts (more than 0.10 mg) in the reaction vessel?",
+        "choices": {
+            "text": [
+                "RbBr and Br2 only",
+                "RbBr only",
+                "RbBr, Rb, and Br2",
+                "RbBr and Rb only"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What volume will a balloon occupy at 1.0 atm, if the balloon has a volume of 7.6 L at 3.8 atm?",
+        "choices": {
+            "text": [
+                "29 L",
+                "58 L",
+                "14.5 L",
+                "22 L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Helium effuses through a pinhole 5.33 times faster than an unknown gas. That gas is most likely",
+        "choices": {
+            "text": [
+                "C8H18",
+                "CH4",
+                "CO2",
+                "C5H12"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Using the following data, how do you calculate the Ksp value given that the solubility of $\"Pb\"_3(\"PO\"_4)_2$ is $6.2xx10^(-12) \"mol/L\"$ ?",
+        "choices": {
+            "text": [
+                "1.2 * 10^(-54)",
+                "3.6 * 10^(-55)",
+                "7.5 * 10^(-56)",
+                "9.9 * 10^(-55)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?",
+        "choices": {
+            "text": [
+                "0.9377 x 10^7 T-1 s-1",
+                "26.75 x 10^7 T-1 s-1",
+                "7.081 x 10^7 T-1 s-1",
+                "101.1 x 10^7 T-1 s-1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "If water is added to 50 ml of a 0.04M solution so that it fills a 200 mL beaker, what is the final concentration?",
+        "choices": {
+            "text": [
+                "0.04 mol/L",
+                "0.08 mol/L",
+                "0.02 mol/L",
+                "0.01 mol/L"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6\u2022-.",
+        "choices": {
+            "text": [
+                "0.58 G",
+                "0.375 mT",
+                "2.35 mT",
+                "3.75 G"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How fast does a proton have to be moving is order to have the same de Broglie wavelength as an electron that is moving at 3.90 \u00d7 10\u2076 m/s?",
+        "choices": {
+            "text": [
+                "8.48 \u00d7 10\u00b3 m/s",
+                "2.12 \u00d7 10\u00b3 m/s",
+                "4.24 \u00d7 10\u00b3 m/s",
+                "1.06 \u00d7 10\u00b3 m/s"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How would you calculate the maximum number of grams of CaCl2 that could be produced from 74g of Ca(OH)2 in the following reaction:\n2HCl + Ca(OH)2 --> 2H2O + CaCl2?",
+        "choices": {
+            "text": [
+                "140g",
+                "98g",
+                "111g",
+                "125g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What are the formal charges of each atom in $ClO_4^-$?",
+        "choices": {
+            "text": [
+                "Both oxygen and chlorine are neutral.",
+                "Negative charge on oxygen; chlorine is neutral.",
+                "Both oxygen and chlorine have negative charges.",
+                "Negative charge on chlorine; oxygen is neutral."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How do you calculate the degree of unsaturation?",
+        "choices": {
+            "text": [
+                "U = \u00bd(C atoms in alkane + H atoms in compound)",
+                "U = H atoms in alkane / H atoms in compound",
+                "U = \u00bd(H atoms in alkane \u2013 H atoms in compound)",
+                "U = C atoms in alkane \u2013 C atoms in compound"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The molar heat of vaporization of water is +43.9 kJ. What is the entropy change for the vaporization of water?",
+        "choices": {
+            "text": [
+                "8.49 J mol-1 K-1",
+                "118 J mol-1 K-1",
+                "4.184 J mol-1 K-1",
+                "2.78 J mol-1 K-1"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How many electrons, neutrons, and protons are in an atom of 52Cr?",
+        "choices": {
+            "text": [
+                "27 electrons, 27 protons, 24 neutrons",
+                "24 electrons, 24 protons, 24 neutrons",
+                "24 electrons, 24 protons, 28 neutrons",
+                "24 electrons, 28 protons, 24 neutrons"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "When an electron transitions from the n=4 energy level to the n=2 energy level, what wavelength of light is emitted? _____",
+        "choices": {
+            "text": [
+                "Infrared ray",
+                "Long wavelength",
+                "Visible light",
+                "Short wavelength"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "xiezhi",
+            "source": "xiezhi"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "How can I assign relative priorities to the groups or atoms in each of the following: $-CH_2OH$, $-CH_3$, $-H$ and $-CH_2 CH_2OH$?",
+        "choices": {
+            "text": [
+                "-CH2OH > -CH2CH2OH > -CH3 > -H",
+                "-CH2OH > -CH3 > -CH2CH2OH > -H",
+                "-CH2CH2OH > -CH2OH > -CH3 > -H",
+                "-CH3 > -CH2OH > -CH2CH2OH > -H"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The specific heat of a certain type of metal is 0.128 J/(g\u00b7\u00b0C). What is the final temperature if 305 J of heat is added to 83.0 g of this metal initially at 20.0 \u00b0C?",
+        "choices": {
+            "text": [
+                "28.7\u00b0C",
+                "58.7\u00b0C",
+                "48.7\u00b0C",
+                "38.7\u00b0C"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "The half life of a radioactive isotope is 350 years. How do you find the amount remaining after 800 years, if the initial amount is 64 grams?",
+        "choices": {
+            "text": [
+                "26.26g",
+                "6.57g",
+                "32.65g",
+                "13.13g"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "D",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "Starting with a stock solution of 18.0 M H2SO4, what is the proper procedure to create a 1.00 L sample of a 3.0 M solution of H2SO4 in a volumetric flask?",
+        "choices": {
+            "text": [
+                "Add 600 mL of the stock solution to the flask, then fill the flask the rest of the way with distilled water while swirling the solution.",
+                "Add 167 mL of the stock solution to the flask, then fill the flask the rest of the way with distilled water while swirling the solution.",
+                "Fill the flask partway with water, then add 167 mL of the stock solution, swirling to mix it. Last, fill the flask the rest of the way with distilled water.",
+                "Fill the flask partway with water, then add 600 mL of the stock solution, swirling to mix it. Last, fill the flask the rest of the way with distilled water."
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is the pH of a solution made by dissolving 0.0300 mol of sodium ethanoate in enough water to make 50 mL of solution (Ka for ethanoic acid is 1.8 \u00d7 10^-5)?",
+        "choices": {
+            "text": [
+                "7",
+                "9.26",
+                "4.74",
+                "11.02"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "B",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "MMLU",
+            "source": "MMLU"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "What is $\\DeltaS$ for the below phase change if $\\DeltaH$ is 6010 $\"J\"/\"mol\"$ at STD conditions?",
+        "choices": {
+            "text": [
+                "22.0 J/(mol*K)",
+                "20.7 J/(mol*K)",
+                "25.3 J/(mol*K)",
+                "18.5 J/(mol*K)"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "A",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "SciEval",
+            "source": "SciEval"
+        },
+        "answer": ""
+    },
+    {
+        "prompt": {
+            "default": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation."
+        },
+        "question": "In the present reactor, the reaction volume is 1000L, reactant A consumes 2mols in the reaction, reactant B consumes 3mols in the reaction, reactant C produces 4mols in the reaction, and reactant D produces 2mols in the reaction. What is the molar percentage of the reactant A? _____",
+        "choices": {
+            "text": [
+                "60%",
+                "40%",
+                "20%",
+                "33.3%"
+            ],
+            "label": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ]
+        },
+        "answerKey": "C",
+        "type": "mcq-4-choices",
+        "domain": "Chemistry",
+        "details": {
+            "level": "L3",
+            "task": "sci_calculate",
+            "subtask": "xiezhi",
+            "source": "xiezhi"
+        },
+        "answer": ""
+    }
+]
